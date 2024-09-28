@@ -1,6 +1,5 @@
 # free simple clothing bag easily configurable
 # Instalation:
-Add image to your inventory/html/images
 
 Add this to your qb-core/shared/items.lua: 	
 ```
